@@ -8,9 +8,16 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Inter', 'system-ui', 'sans-serif'],
+        serif: ['Crimson Pro', 'serif'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: '#2D3436',
+        secondary: '#FEF7E0',
+        accent: '#D4AF37',
       },
     },
   },

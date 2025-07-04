@@ -1,12 +1,14 @@
 {
-  "name": "nextjs-demo",
-  "version": "0.1.0",
+  "name": "m4rt1n-eu-website",
+  "version": "1.0.0",
   "private": true,
+  "description": "Professional website for m4rt1n.eu domain",
+  "homepage": "https://m4rt1n.eu",
   "engines": {
     "node": "^22.0.0"
   },
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3500",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
