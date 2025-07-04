@@ -1,4 +1,5 @@
 # Next.js Demo
+Test deployment on commit
 
 A barebones Next.js instance showcasing [Sevalla's application hosting](https://sevalla.com/application-hosting/).
 
