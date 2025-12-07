@@ -16,7 +16,7 @@ export default function HomePage() {
           />
         </div>
         
-        <div className="bg-white/80 backdrop-blur-sm rounded-lg px-8 py-6 shadow-lg border border-neutral/10">
+        <div className="bg-primary rounded-lg px-8 py-6 shadow-xl">
           <ContactLinks />
         </div>
       </div>

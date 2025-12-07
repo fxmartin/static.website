@@ -5,7 +5,7 @@ export function ContactLinks() {
         href="https://www.linkedin.com/in/francoisxaviermartin/"
         target="_blank"
         rel="noopener noreferrer"
-        className="flex items-center space-x-2 text-primary hover:text-accent transition-colors duration-200"
+        className="flex items-center space-x-2 text-white hover:text-secondary transition-colors duration-200"
       >
         <LinkedInIcon className="w-5 h-5" />
         <span className="text-sm font-medium">LinkedIn</span>
@@ -13,7 +13,7 @@ export function ContactLinks() {
       
       <a
         href="mailto:contact@m4rt1n.eu"
-        className="flex items-center space-x-2 text-primary hover:text-accent transition-colors duration-200"
+        className="flex items-center space-x-2 text-white hover:text-secondary transition-colors duration-200"
       >
         <EmailIcon className="w-5 h-5" />
         <span className="text-sm font-medium">Contact</span>
